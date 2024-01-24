@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu yêu tớ đó nha :> ',
     btnYes: 'Yêu ơi là iuuu <33',
     btnNo: 'Cậu mơ à :333',
-    question:'Nói cho tới lý do vì sao cậu yêu tớ đii ❤',
+    question:'Nói cho tớ lý do vì sao cậu yêu tớ đii ❤',
     btnReply: 'Gửi cho tớ ❤',
     reply: 'Tại vì cậu rất đẹp trai! UwU',
     mess: 'Tớ biết mà 🥰. Cảm ơn cậu 😘😘',
