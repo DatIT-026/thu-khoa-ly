@@ -8,8 +8,8 @@ View online demo [here](https://datit-026.github.io/thu-khoa-ly/)
 
 ## Contact us
 - Email: tiendatha2006@gmail.com
-- Social Media: https://www.facebook.com/datit.dev/
-- 
+- Social Media: [Facebook](https://www.facebook.com/datit.dev/)
+
 Please feel free to contact me through these channels.
 
 This project is licensed under the [MIT License](LICENSE).
