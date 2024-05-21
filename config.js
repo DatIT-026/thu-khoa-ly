@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Cảm ơn cậu 😘😘',
     messDesc: 'Tớ có quà cho cậu đây',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://datit-026.github.io/Test/love.html'
+    messLink: 'https://datit-026.github.io/thu-khoa-ly/love.html'
 }
