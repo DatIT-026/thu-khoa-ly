@@ -8,7 +8,7 @@ This is my 4th project in the **Crazy Gifts** series, and this time, we are prou
 There is no fixed deadline for this project. However, we typically conclude a project within 1 to 2 years, with a minimum duration of 6 months. Some projects deemed unsuitable or harmful are immediately canceled and removed.
 
 ## Explore more?
-View the online demo [here](https://datit-026.github.io/thu-khoa-ly/)
+View the online demo [here](https://datit-026.github.io/thu-khoa-ly/).
 
 ## Contact us
 Please feel free to reach out to me through these channels.
