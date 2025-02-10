@@ -16,10 +16,8 @@ View the online demo [here](https://datit-026.github.io/thu-khoa-ly/).
 ## Contact us
 Please feel free to reach out to me through these channels.
 
-- Email: tiendatha2006@gmail.com
-- Social Media: [Facebook](https://www.facebook.com/datit.dev/)
+- Email: firehelper0609@gmail.com
+- Social Media: [Facebook](https://www.facebook.com/hanguyentiendat2006)
 
 ## Disclaimer
-This project is for research purposes only. Illegal use is strictly prohibited.
-
 This project is licensed under the [MIT License](LICENSE).
