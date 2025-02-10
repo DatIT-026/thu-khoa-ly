@@ -13,8 +13,6 @@ If you have an Android device, you may try [this](https://datit-026.github.io/Da
 ## Explore more?
 View the online demo [here](https://datit-026.github.io/thu-khoa-ly/).
 
-FireHelper's [Privacy Policy](https://datit-026.github.io/DatIT/support/privacy).
-
 ## Contact us
 Please feel free to reach out to me through these channels.
 
@@ -22,4 +20,6 @@ Please feel free to reach out to me through these channels.
 - Social Media: [Facebook](https://www.facebook.com/hanguyentiendat2006)
 
 ## Disclaimer
+FireHelper's [Privacy Policy](https://datit-026.github.io/DatIT/support/privacy).
+
 This project is licensed under the [MIT License](LICENSE).
