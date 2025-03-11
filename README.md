@@ -11,13 +11,13 @@ There is no fixed deadline for this project. However, we typically conclude a pr
 If you have an Android device, you may try [this](https://datit-026.github.io/DatIT/Blog/2025/urgift-app/urgift).
 
 ## Explore more?
-View the online demo [here](https://datit-026.github.io/thu-khoa-ly/).
+View the online demo [here](https://datit-026.github.io/DatIT/404).
 
 ## Contact us
 Please feel free to reach out to me through these channels.
 
-- Email: firehelper0609@gmail.com
-- Social Media: [Facebook](https://www.facebook.com/hanguyentiendat2006)
+- Email: (End of Support)
+- Social Media: (End of Support)
 
 ## Privacy Policy & Disclaimer
 FireHelper's [Privacy Policy](https://datit-026.github.io/DatIT/support/privacy).
