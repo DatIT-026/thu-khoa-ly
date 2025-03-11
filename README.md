@@ -1,4 +1,4 @@
-# ⚠️ Support for the Thu-Khoa-Ly Project will end in February 2025
+# ⚠️ Support for the Thu-Khoa-Ly Project has ended
 
 After February 19, 2025, we will no longer provide security updates or technical support for the **Thu-Khoa-Ly Project**.
 
